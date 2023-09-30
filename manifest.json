@@ -1,6 +1,6 @@
 {
   "main.css": "auto/assets/main.25788a495759bc672445.css",
-  "main.js": "auto/assets/main.15dbcf8910d0a9c1eb4c.js",
+  "main.js": "auto/assets/main.aeae3bf0aa4204f9380a.js",
   "vendors~282b4355.js": "auto/assets/vendors~282b4355.2c4258592078ed879340.js",
   "vendors~94192f36.css": "auto/assets/vendors~94192f36.aa4f7356514f9c9da4fa.css",
   "vendors~0b388593.js": "auto/assets/vendors~0b388593.5df9cca7a556432af2ac.js",
@@ -74,7 +74,7 @@
   ".prettierrc": "auto/.prettierrc",
   "assets/scss/modules/app.module.scss": "auto/assets/scss/modules/app.module.scss",
   "main.css.map": "auto/assets/main.25788a495759bc672445.css.map",
-  "main.js.map": "auto/assets/main.15dbcf8910d0a9c1eb4c.js.map",
+  "main.js.map": "auto/assets/main.aeae3bf0aa4204f9380a.js.map",
   "vendors~282b4355.js.map": "auto/assets/vendors~282b4355.2c4258592078ed879340.js.map",
   "vendors~94192f36.css.map": "auto/assets/vendors~94192f36.aa4f7356514f9c9da4fa.css.map",
   "vendors~0b388593.js.map": "auto/assets/vendors~0b388593.5df9cca7a556432af2ac.js.map",
