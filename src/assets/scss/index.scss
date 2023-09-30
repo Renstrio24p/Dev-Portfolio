@@ -1,0 +1,50 @@
+@import './app.scss';
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+:root {
+    --grey: #444;
+    --dark-cyan: #203d4d;
+    --darkest: #181818;
+    --icon-def: #4d4d4e;
+    --yellow: #ffd700;
+    --cyan: cyan;
+}
+
+body {
+    font-family: 300 11px/1.4 'Helvetica Neue','sans-serif';
+    color: var(--grey);
+    background: var(--dark-cyan);
+    overflow: hidden;
+    display: block;
+    background-image: url('../../images/webpack.png');
+    background-size: cover;
+    background-size: 120px;
+    background-repeat: no-repeat;
+    z-index: 22;
+}
+
+.container {
+    width: 100%;
+    will-change: contents;
+    height: 90%;
+    min-height: 566px;
+    position: absolute;
+    opacity: 0;
+    top: 5%;
+    margin: 0 auto;
+    z-index: 1;
+    transform-style: preserve-3d;
+    animation: fadeIn 1s forwards;
+    animation-delay: 1s;
+  }
